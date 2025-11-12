@@ -1,0 +1,16 @@
+controlla i commenti e gestisci i da qui : 
+https://supabase.com/dashboard/project/heumfhvmbbeibcbzrnum/editor/17451?schema=public
+
+fare la pagina **privacy&policy** con il seguente testo :  
+
+🔒 Privacy Policy
+
+Questo sito è un blog personale gestito da Kevin.
+L’unico dato eventualmente raccolto è l’indirizzo e-mail e il nome forniti volontariamente nel modulo di contatto, usati esclusivamente per rispondere ai messaggi ricevuti.
+
+I dati non vengono condivisi con terzi né usati per scopi di marketing.
+
+Se desideri che un tuo messaggio venga eliminato, puoi scrivere a:
+📧 kevin96imerti@outlook.it
+
+Questo sito non utilizza cookie di profilazione né strumenti di tracciamento.
