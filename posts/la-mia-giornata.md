@@ -62,7 +62,7 @@ Lavoro dal **lunedì al venerdì**.
 - 📚 **Martedì / Giovedì:** studio, programmo o compro ciò che manca in casa.  
 - 🍚 Alle **11:15** pranzo con **200g di riso**, tonno o pomodorini.  
 - 🍽️ Lavo i piatti e preparo la cena in anticipo (sempre la mia mitica piadina 😄).  
-- 😴 Alle **12:30** pisolino fino alle **13:10**, poi mi lavo e parto per il lavoro.  
+- 😴 Alle **12:30** pisolino fino alle **13:10**, poi mi lavo i denti e parto per il lavoro alle **13:30**.  
 - 🏭 Inizio il turno alle **14:00** e termino alle **22:00**.  
 - 🚿 Una volta a casa, doccia e un piccolo ripasso di ciò che ho studiato al mattino.  
 - 🌙 Mi metto a letto verso le **23:30**, con un video su YouTube fino a crollare.
@@ -81,17 +81,11 @@ La **domenica**, invece, mi tengo leggero: verdure, piatti semplici, e tanto rel
 
 ## 💭 Conclusione
 
-Devo dire la verità: mi trovo molto bene con questo modo di gestirmi le giornate.  
+Devo dire la verità: Mi trovo molto bene con questo modo di gestirmi le giornate.  
 Certo, il **venerdì sera sembro uno zombie**, ma almeno non ho la sensazione di aver sprecato tempo.  
 
 Potrei sembrare eccessivo, ma ormai **restare senza far niente mi fa sentire in colpa**.  
 E forse va bene così — perché significa che sto continuando a muovermi,  
 a costruire qualcosa, anche solo un passo alla volta.
-
-Resoconto: 
-
-| 😴 Ore di sonno | 6–6.5 ore per notte |
-| 🏋️‍♂️ Allenamenti | 3 volte a settimana |
-| 💻 Studio / Programmazione | 1–2 ore al giorno |
 
 > “Non sempre hai il controllo sul tempo, ma puoi sempre decidere come usarlo.”  
