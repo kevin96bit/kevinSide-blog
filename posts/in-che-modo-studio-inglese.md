@@ -23,7 +23,12 @@ Ero talmente innamorato del programma che, quando decisero di toglierlo, non per
 
 Solo oggi mi rendo conto che quella *fame di contenuto* mi motivava a imparare l’inglese in modo incredibile. Avevo più tempo, meno responsabilità e molta curiosità.
 
-Col tempo i miei gusti sono “maturati”: se prima mi bastava capire contenuti informali, ora cerco qualcosa di più ricco e formale, come le **NBC News**, per assimilare non solo la frase grezza ma anche il “contorno”, ciò che dà respiro e dettaglio.
+Col tempo i miei gusti sono “maturati”: se prima mi bastava capire contenuti informali, ora cerco qualcosa di più ricco e formale, come [NBC News](https://www.nbcnews.com/), per assimilare non solo la frase grezza ma anche il “contorno”, ciò che dà respiro e dettaglio.
+
+ Esiste anche un sito chiamato [News in Levels](https://www.newsinlevels.com/) che pubblica notizie reali, ma riscritte in tre diversi livelli di difficoltà, così puoi leggere lo stesso articolo in versione più semplice o più avanzata a seconda del tuo livello attuale.
+
+È molto comodo perché ti permette di allenare la comprensione senza sentirti “bloccato” davanti a frasi troppo difficili, e allo stesso tempo ti aiuta ad arricchire il vocabolario in modo naturale.
+
 
 ---
 
@@ -86,26 +91,30 @@ Tra i vari siti che ho provato, mi sono trovato bene con **Italki**.
 Permette di scegliere gli insegnanti e filtrarli per prezzo.  
 Preferisco i *new entry* perché hanno tariffe più contenute pur offrendo un’ottima didattica.
 
-🔗 [Visita Italki](https://www.italki.com/it)
-
 In passato cercavo di fare almeno una lezione da 30 o 60 minuti a settimana.
+
+🔗 [Visita Italki](https://www.italki.com/it)
 
 ---
 
 ## 🎮 6. Amicizie internazionali & Gaming
 
-Fare amicizia online con persone di altre nazionalità è un metodo semplice ma potente.  
-Si può fare *tandem linguistico* o semplicemente parlare dei propri interessi.
+Fare amicizia online con persone di altre nazionalità è un metodo semplice ma davvero efficace.  
+Si può fare *tandem linguistico* oppure semplicemente parlare dei propri interessi.
 
-Io, essendo un nerd, ho conosciuto amici durante le sessioni di gioco, e ogni tanto parliamo su Discord.  
+Io, essendo un nerd, ho conosciuto nuovi amici durante le sessioni di gioco, e ogni tanto parliamo su Discord.
 
-Non è obbligatorio, ma stimola molto più di una conversazione “obbligata” che puoi avere con l'intelligenza artificiale a volte.
+Non è un metodo obbligatorio, ma stimola molto di più rispetto a una conversazione “obbligata” con un’intelligenza artificiale.
 
-> 🎮 **Parlare di ciò che ami rende l’apprendimento naturale e spontaneo.**
+ 👉 Se ti stai chiedendo *"Cos’è Discord?"*, ti rispondo subito: 
+> Discord è un’app gratuita che permette di parlare e chattare tramite voce, testo e video.  
+> È molto usata dai gamer e da chi vuole creare piccoli gruppi o community online.  
+
+🔗 [Scarica Discord dal sito ufficiale](https://discord.com/download)
+
 
 ---
 
-## 🔎 Metodi alternativi
 
 Ovviamente esistono altri metodi, come le flashcard o app tipo Duolingo.  
 Io continuo a trovarmi bene con quelli elencati sopra.
