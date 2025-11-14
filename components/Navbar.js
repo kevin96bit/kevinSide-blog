@@ -73,13 +73,13 @@ export default function Navbar() {
             <User size={18} /> About
           </Link>
 
-          <Link
+          {/* <Link
             href="/contact"
             className="flex items-center gap-3 text-gray-200 hover:text-blue-400 transition"
             onClick={() => setIsOpen(false)}
           >
             <Mail size={18} /> Contact
-          </Link>
+          </Link> */}
         </div>
       )}
     </header>

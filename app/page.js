@@ -6,7 +6,7 @@ export default function HomePage() {
   const posts = getAllPosts()
 
   return (
-    <section className="min-h-screen bg-gray-900 text-gray-100 py-12 transition-all duration-700 ease-out">
+    <section className="min-h-screen bg-gray-900 text-gray-100 py-2 transition-all duration-700 ease-out">
       <div className="container mx-auto px-4">
         <h1 className="text-3xl text-center md:text-4xl font-bold mb-8 text-blue-400">
           I miei articoli📝
