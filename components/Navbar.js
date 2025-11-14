@@ -32,16 +32,16 @@ export default function Navbar() {
             className="flex items-center gap-2 hover:text-blue-400 transition"
           >
             <User size={18} />
-            About
+            About Me
           </Link>
-
+{/* 
           <Link
             href="/contact"
             className="flex items-center gap-2 hover:text-blue-400 transition"
           >
             <Mail size={18} />
             Contact
-          </Link>
+          </Link> */}
         </div>
 
         {/* Bottone Mobile */}
