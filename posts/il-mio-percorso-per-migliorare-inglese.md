@@ -1,12 +1,12 @@
 ---
-title: "In che modo studio inglese"
+title: "Il mio percorso per migliorare l’inglese"
 date: "14/11/2025"
 excerpt: "Il mio metodo personale per studiare e migliorare l'inglese attraverso contenuti, IA, podcast e abitudini quotidiane."
 image: "https://images.unsplash.com/photo-1565022536102-f7645c84354a?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 tags:
-  - personale
-  - crescita
-  - apprendimento
+- personale
+- crescita
+- apprendimento
 ---
 
 Durante gli anni delle superiori non ho mai dato grande importanza allo studio e alla comprensione della lingua inglese. Le mie preoccupazioni principali erano: *"Cosa faccio questo pomeriggio?"* oppure *"Speriamo torni in tempo per pranzo, non voglio perdermi Dragon Ball su Italia 1"*.  
@@ -23,9 +23,11 @@ Ero talmente innamorato del programma che, quando decisero di toglierlo, non per
 
 Solo oggi mi rendo conto che quella *fame di contenuto* mi motivava a imparare l’inglese in modo incredibile. Avevo più tempo, meno responsabilità e molta curiosità.
 
-Col tempo i miei gusti sono “maturati”: se prima mi bastava capire contenuti informali, ora cerco qualcosa di più ricco e formale, come [NBC News](https://www.nbcnews.com/), per assimilare non solo la frase grezza ma anche il “contorno”, ciò che dà respiro e dettaglio.
+Col tempo i miei gusti sono “maturati”: 
 
- Esiste anche un sito chiamato [News in Levels](https://www.newsinlevels.com/) che pubblica notizie reali, ma riscritte in tre diversi livelli di difficoltà, così puoi leggere lo stesso articolo in versione più semplice o più avanzata a seconda del tuo livello attuale.
+Se prima mi bastava capire contenuti informali, ora cerco qualcosa di più ricco e formale, come [NBC News](https://www.nbcnews.com/), per assimilare non solo la frase grezza ma anche il “contorno”, ciò che dà respiro e dettaglio.
+
+Esiste anche un sito chiamato [News in Levels](https://www.newsinlevels.com/) che pubblica notizie reali, ma riscritte in tre diversi livelli di difficoltà, così puoi leggere lo stesso articolo in versione più semplice o più avanzata a seconda del tuo livello attuale.
 
 È molto comodo perché ti permette di allenare la comprensione senza sentirti “bloccato” davanti a frasi troppo difficili, e allo stesso tempo ti aiuta ad arricchire il vocabolario in modo naturale.
 

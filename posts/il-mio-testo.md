@@ -4,9 +4,9 @@ date: "25/10/2025"
 excerpt: "Una breve presentazione di me e del mio percorso verso il cambiamento."
 image: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=600&fit=crop"
 tags:
-  - personale
-  - crescita
-  - tecnologia
+- personale
+- crescita
+- tecnologia
 ---
 
 # 👋 Ciao a tutti!

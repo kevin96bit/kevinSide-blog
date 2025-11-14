@@ -4,9 +4,9 @@ date: "10/11/2025"
 excerpt: "Un piccolo sguardo dentro la mia routine quotidiana: lavoro, famiglia e tempo per le mie passioni."
 image: "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=1200&h=600&fit=crop"
 tags:
-  - personale
-  - routine
-  - equilibrio
+- personale
+- routine
+- equilibrio
 ---
 
 Facendo un lavoro su **due turni** e avendo un bambino, il tempo è sempre ristretto.  
